@@ -1,0 +1,1 @@
+counter is 12sum is 394average is 32.833333333333336

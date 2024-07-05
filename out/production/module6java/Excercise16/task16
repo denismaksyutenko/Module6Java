@@ -1,0 +1,16 @@
+Overview:
+
+This is a complex exercise, and you may need to do some additional external research to complete it.
+
+Duke’s 2000 Calorie Daily Diet, packs in as much good nutrition as possible, while trying to keep it simple, tasty and fun.
+The user can select as many meals as they wish, but cannot exceed 2000 calories in total.
+
+The Application:
+•	The user should be presented with the following menu.
+
+ Program Logic:
+•	The user can select as many meals as they wish (one at a time),
+    but they cannot exceed the daily total of 2000 calories (the program must prevent this).
+•	The user can select the same meal many times, if they so wish.
+•	If no meals have been selected, the program should simply display the message, “Goodbye”.
+

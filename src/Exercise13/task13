@@ -1,0 +1,8 @@
+Create a text file named Duke.txt. The following text should be included in the text file.
+
+Duke had an amazing day out. He bought an amazing pair of goggles.
+What he found most amazing was the price tag. €10! What an Amazing experience!
+
+Create a Java program, which determines the number of occurrences of the word  ‘amazing’ (case insensitive) in the text file.
+A Scanner object should be used to read the contents of the text file to the program.
+Any exceptions that may occur should be gracefully handled by the program.

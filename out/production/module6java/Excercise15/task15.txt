@@ -1,0 +1,28 @@
+Assume that the following daily temperatures were recorded in Ireland for the first two weeks, in December 2016.
+
+01/12/2016 	8
+02/12/2016 	9
+03/12/2016 	7
+04/12/2016 	6
+05/12/2016 	11
+06/12/2016 	10
+07/12/2016 	11
+08/12/2016 	8
+09/12/2016 	9
+10/12/2016 	7
+11/12/2016 	7
+12/12/2016 	8
+13/12/2016 	9
+14/12/2016 	7
+
+Create a text file named, December_2016.txt. The text file should store data in the following format (date-temperature).
+Example:
+01/12/2016-8
+02/12/2016-9
+03/12/2016-7
+Now, create a Java program, which reads in the data from the text file and calculates the following statistics:
+•	Average temperature
+•	Max temperature (the warmest day)
+•	Min temperature (the coldest day)
+
+The program should (i) display the statistics in the console and (ii) write them out to another text file called, Analysis.txt.

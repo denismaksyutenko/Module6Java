@@ -1,0 +1,11 @@
+You have recently started a new role as a Junior Software Developer.
+A senior member of the Software Development team has asked you to perform the following task, and has given you some suggestions.
+You have been asked to write a Java program that reads in the number of units sold of a product (in the last 12 months)
+from a text file named, ‘Sales.txt’. You will need to create the text file.
+The contents of the file to read in: Sales.txt
+10 20 35 56
+24 12 45 1
+80 43 23 45
+The Java program should calculate (i) the total number of units sold of the product and (ii) the average number sold per month.
+This information needs to be subsequently written to a text file named, ‘Sales Summary.txt’.
+It should also be displayed in the console as shown below.
